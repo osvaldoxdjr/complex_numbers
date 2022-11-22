@@ -22,7 +22,7 @@ Once the installation step is completed, please follow the instructions:
 cd <repository_folder>
 ```
 
-3) Open the terminal and run the following command:
+3) Run the following command:
 
 ```sh
 pytest
